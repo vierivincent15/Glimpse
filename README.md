@@ -29,6 +29,11 @@ The app consists of two main components:
 - HomePage
 - Public Space Page
 
+## Team
+- Koe Jia-Yee
+- Michael Junaprasetya
+- Tan Wei Jin
+- Vieri Vincent
 
 
 ---
