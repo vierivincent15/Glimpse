@@ -30,6 +30,7 @@ The app consists of two main components:
 - Public Space Page
 
 ## Team
+- Chia Si Wei
 - Koe Jia-Yee
 - Michael Junaprasetya
 - Tan Wei Jin
